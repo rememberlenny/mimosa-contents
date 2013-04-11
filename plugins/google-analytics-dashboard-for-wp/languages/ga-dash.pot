@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Dashboard for WP\n"
+"POT-Creation-Date: 2013-04-04 20:10+0200\n"
+"PO-Revision-Date: 2013-04-04 20:10+0200\n"
+"Last-Translator: Deconf <admin@deconf.com>\n"
+"Language-Team: Deconf <admin@deconf.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././functions.php:53 .././functions.php:85 .././functions.php:117
+#: .././functions.php:148 .././functions.php:178 .././functions.php:209
+#: .././ga_dash.php:440 .././ga_dash.php:460
+msgid "ERROR LOG:"
+msgstr ""
+
+#: .././ga_dash.php:181 .././ga_dash.php:497 .././ga_dash.php:507
+msgid "Date"
+msgstr ""
+
+#: .././ga_dash.php:204 .././ga_dash.php:630
+msgid "Top Searches"
+msgstr ""
+
+#: .././ga_dash.php:204 .././ga_dash.php:422 .././ga_dash.php:521
+#: .././ga_dash.php:544 .././ga_dash.php:550 .././ga_dash.php:581
+#: .././ga_dash.php:605 .././ga_dash.php:630
+msgid "Visits"
+msgstr ""
+
+#: .././ga_dash.php:279
+msgid "Client ID, Client Secret or API Key is missing"
+msgstr ""
+
+#: .././ga_dash.php:302
+msgid "Ask an admin to authorize this Application"
+msgstr ""
+
+#: .././ga_dash.php:306
+msgid "Authorize Google Analytics Dashboard"
+msgstr ""
+
+#: .././ga_dash.php:353
+msgid "Can't retrive your Google Analytics Profiles"
+msgstr ""
+
+#: .././ga_dash.php:362 .././ga_dash.php:373
+msgid "Ask an admin to asign a Google Analytics Profile"
+msgstr ""
+
+#: .././ga_dash.php:414
+msgid "Visitors"
+msgstr ""
+
+#: .././ga_dash.php:416
+msgid "Page Views"
+msgstr ""
+
+#: .././ga_dash.php:418
+msgid "Bounce Rate"
+msgstr ""
+
+#: .././ga_dash.php:420
+msgid "Organic Searches"
+msgstr ""
+
+#: .././ga_dash.php:521
+msgid "Country"
+msgstr ""
+
+#: .././ga_dash.php:544
+msgid "Source"
+msgstr ""
+
+#: .././ga_dash.php:550
+msgid "Type"
+msgstr ""
+
+#: .././ga_dash.php:560
+msgid "Traffic Sources"
+msgstr ""
+
+#: .././ga_dash.php:568
+msgid "New vs. Returning"
+msgstr ""
+
+#: .././ga_dash.php:581
+msgid "Top Pages"
+msgstr ""
+
+#: .././ga_dash.php:605
+msgid "Top Referrers"
+msgstr ""
+
+#: .././ga_dash.php:652
+msgid "Today"
+msgstr ""
+
+#: .././ga_dash.php:653
+msgid "Yesterday"
+msgstr ""
+
+#: .././ga_dash.php:654
+msgid "Last 7 days"
+msgstr ""
+
+#: .././ga_dash.php:655
+msgid "Last 14 days"
+msgstr ""
+
+#: .././ga_dash.php:656
+msgid "Last 30 days"
+msgstr ""
+
+#: .././ga_dash.php:665
+msgid "Visits:"
+msgstr ""
+
+#: .././ga_dash.php:667
+msgid "Visitors:"
+msgstr ""
+
+#: .././ga_dash.php:669
+msgid "Page Views:"
+msgstr ""
+
+#: .././ga_dash.php:673
+msgid "Bounce Rate:"
+msgstr ""
+
+#: .././ga_dash.php:675
+msgid "Organic Search:"
+msgstr ""
+
+#: .././ga_dash.php:677
+msgid "Pages per Visit:"
+msgstr ""
+
+#: .././ga_dash.php:685
+msgid "Visits by Country"
+msgstr ""
+
+#: .././ga_dash.php:690
+msgid "Traffic Overview"
+msgstr ""
+
+#: .././ga_dash_admin.php:9
+msgid "Cleared Cache."
+msgstr ""
+
+#: .././ga_dash_admin.php:15
+msgid "Token Reseted."
+msgstr ""
+
+#: .././ga_dash_admin.php:62
+msgid "Options saved."
+msgstr ""
+
+#: .././ga_dash_admin.php:81
+msgid "API Key, Client ID or Client Secret is missing."
+msgstr ""
+
+#: .././ga_dash_admin.php:111
+msgid "Google Analytics Dashboard Settings"
+msgstr ""
+
+#: .././ga_dash_admin.php:114
+msgid "Google Analytics API"
+msgstr ""
+
+#: .././ga_dash_admin.php:114
+msgid "watch this"
+msgstr ""
+
+#: .././ga_dash_admin.php:114
+msgid "Step by step video tutorial"
+msgstr ""
+
+#: .././ga_dash_admin.php:115
+msgid "API Key:"
+msgstr ""
+
+#: .././ga_dash_admin.php:115
+msgid "ex: AIzaSyASK7dLaii4326AZVyZ6MCOIQOY6F30G_1"
+msgstr ""
+
+#: .././ga_dash_admin.php:116
+msgid "Client ID:"
+msgstr ""
+
+#: .././ga_dash_admin.php:116
+msgid "ex: 111342334706.apps.googleusercontent.com"
+msgstr ""
+
+#: .././ga_dash_admin.php:117
+msgid "Client Secret:"
+msgstr ""
+
+#: .././ga_dash_admin.php:117
+msgid "ex: c62POy23C_2qK5fd3fdsec2o"
+msgstr ""
+
+#: .././ga_dash_admin.php:120
+msgid "Clear Authorization"
+msgstr ""
+
+#: .././ga_dash_admin.php:123
+msgid "Authorize Application"
+msgstr ""
+
+#: .././ga_dash_admin.php:126
+msgid ""
+"(the rest of the settings will show up after completing the authorization "
+"process)"
+msgstr ""
+
+#: .././ga_dash_admin.php:131
+msgid "Access Level"
+msgstr ""
+
+#: .././ga_dash_admin.php:132
+msgid "View Access Level: "
+msgstr ""
+
+#: .././ga_dash_admin.php:134
+msgid "Administrators"
+msgstr ""
+
+#: .././ga_dash_admin.php:135
+msgid "Editors"
+msgstr ""
+
+#: .././ga_dash_admin.php:136
+msgid "Authors"
+msgstr ""
+
+#: .././ga_dash_admin.php:137
+msgid "Contributors"
+msgstr ""
+
+#: .././ga_dash_admin.php:142
+msgid "Lock selected access level to this profile: "
+msgstr ""
+
+#: .././ga_dash_admin.php:159
+msgid " disable dashboard's Switch Profile functionality"
+msgstr ""
+
+#: .././ga_dash_admin.php:161
+msgid "Frontend Settings"
+msgstr ""
+
+#: .././ga_dash_admin.php:162
+msgid " show page visits and top searches in frontend (after each article)"
+msgstr ""
+
+#: .././ga_dash_admin.php:164
+msgid "Backend Settings"
+msgstr ""
+
+#: .././ga_dash_admin.php:165
+msgid " show geo map for visits"
+msgstr ""
+
+#: .././ga_dash_admin.php:166
+msgid " show traffic overview"
+msgstr ""
+
+#: .././ga_dash_admin.php:167
+msgid " show top pages"
+msgstr ""
+
+#: .././ga_dash_admin.php:168
+msgid " show top referrers"
+msgstr ""
+
+#: .././ga_dash_admin.php:169
+msgid " show top searches"
+msgstr ""
+
+#: .././ga_dash_admin.php:170
+msgid "CSS Settings: "
+msgstr ""
+
+#: .././ga_dash_admin.php:172
+msgid "Blue Theme"
+msgstr ""
+
+#: .././ga_dash_admin.php:173
+msgid "Light Theme"
+msgstr ""
+
+#: .././ga_dash_admin.php:176
+msgid "Cache Settings"
+msgstr ""
+
+#: .././ga_dash_admin.php:177
+msgid "Cache Time: "
+msgstr ""
+
+#: .././ga_dash_admin.php:179
+msgid "None"
+msgstr ""
+
+#: .././ga_dash_admin.php:180
+msgid "15 minutes"
+msgstr ""
+
+#: .././ga_dash_admin.php:181
+msgid "30 minutes"
+msgstr ""
+
+#: .././ga_dash_admin.php:182
+msgid "1 hour"
+msgstr ""
+
+#: .././ga_dash_admin.php:185
+msgid "Update Options"
+msgstr ""
+
+#: .././ga_dash_admin.php:186
+msgid "Clear Cache"
+msgstr ""
+
+#~ msgid ""
+#~ " (watch this <a href='http://www.deconf.com/en/projects/google-analytics-"
+#~ "dashboard-for-wordpress/' target='_blank'>Step by step video tutorial</a>)"
+#~ msgstr ""
+#~ " (watch this <a href='http://www.deconf.com/en/projects/google-analytics-"
+#~ "dashboard-for-wordpress/' target='_blank'>Step by step video tutorial</a>)"
